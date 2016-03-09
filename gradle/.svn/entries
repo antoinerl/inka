@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/gradle"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   schedule="add"
+   name=""
+   revision="0"/>
+<entry
+   kind="dir"
+   schedule="add"
+   name="wrapper"/>
+</wc-entries>

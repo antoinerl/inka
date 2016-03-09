@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/example/www/font/material-design-icons"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="61bcbbdbfc498d028e87b0b8b14c28fc"
+   last-author="antoine"
+   name="LICENSE.txt"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="d23b5163599596ee8fed5e6c4fce824d"
+   last-author="antoine"
+   name="Material-Design-Icons.eot"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="98311456903486ecf6f8f705bee85781"
+   last-author="antoine"
+   name="Material-Design-Icons.svg"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="2635ab518b71cfe3d4241741689d8894"
+   last-author="antoine"
+   name="Material-Design-Icons.ttf"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="0fc5952b2ad99db0fa1a49c2e0fd5928"
+   last-author="antoine"
+   name="Material-Design-Icons.woff"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="ea902f805118759f156065345dbc8115"
+   last-author="antoine"
+   name="Material-Design-Icons.woff2"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+</wc-entries>

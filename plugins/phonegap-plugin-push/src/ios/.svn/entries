@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="f39db29710209cfd573ff2dd5c668602"
+   last-author="antoine"
+   name="AppDelegate+notification.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="643ca5e6f3865fcf94bd36204282bce0"
+   last-author="antoine"
+   name="AppDelegate+notification.m"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="dir"
+   name="GGLInstanceID"/>
+<entry
+   kind="dir"
+   name="Google"/>
+<entry
+   kind="dir"
+   name="GoogleCloudMessaging"/>
+<entry
+   kind="dir"
+   name="GoogleIPhoneUtilities"/>
+<entry
+   kind="dir"
+   name="GoogleInterchangeUtilities"/>
+<entry
+   kind="dir"
+   name="GoogleNetworkingUtilities"/>
+<entry
+   kind="dir"
+   name="GoogleSymbolUtilities"/>
+<entry
+   kind="dir"
+   name="GoogleUtilities"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3b63c61b7e44f8f3b93c4fe8622817be"
+   last-author="antoine"
+   name="PushPlugin.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="fb547e914f8ac4f38dbf9c288a3dbc5f"
+   last-author="antoine"
+   name="PushPlugin.m"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+</wc-entries>

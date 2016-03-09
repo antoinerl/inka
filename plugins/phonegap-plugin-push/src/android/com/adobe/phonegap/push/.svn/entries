@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="694c6bab5ce453a29314668507af2f94"
+   last-author="antoine"
+   name="GCMIntentService.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="8345dc5e34fbfe198b638bb276ab2ac1"
+   last-author="antoine"
+   name="PermissionUtils.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="1db017ef1761d25be6f83665ac092da2"
+   last-author="antoine"
+   name="PushConstants.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="939e4d7af96781cde0c3c153b3fb7adf"
+   last-author="antoine"
+   name="PushHandlerActivity.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="12882bff04b3a2b93f9f0b199793a1de"
+   last-author="antoine"
+   name="PushInstanceIDListenerService.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="f704c3107c44d11959072649e5a04565"
+   last-author="antoine"
+   name="PushPlugin.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="ca808edc24f88490db528f5631430780"
+   last-author="antoine"
+   name="RegistrationIntentService.java"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+</wc-entries>

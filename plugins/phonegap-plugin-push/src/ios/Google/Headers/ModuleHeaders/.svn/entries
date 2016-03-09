@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios/Google/Headers/ModuleHeaders"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="16727b4b3009862bfc82d6ef57dcb05b"
+   last-author="antoine"
+   name="AdMob-Module.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3dc536ad816ef289c648cded58dd67d4"
+   last-author="antoine"
+   name="Analytics-Module.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="dc91c74b8054b06211a68de0f94efd2a"
+   last-author="antoine"
+   name="AppInvite-Module.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="e03c946ffa37c462986684e3e5df229a"
+   last-author="antoine"
+   name="CloudMessaging-Module.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="7d15885822c770584b7c8ef3de341f3c"
+   last-author="antoine"
+   name="Core-Module.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="a8222ba8702f8de2c194f767e8b7a7de"
+   last-author="antoine"
+   name="SignIn-Module.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+</wc-entries>

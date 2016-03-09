@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="db560f844a19bb45fabe379dd52ee499"
+   last-author="antoine"
+   name="CHANGELOG.md"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="67ebf00a3d50f9a6a425407016117af2"
+   last-author="antoine"
+   name="CONTRIBUTING.md"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="1fd82d916a78dacc72fb57c49bc9fff8"
+   last-author="antoine"
+   name="MIT-LICENSE"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="25e79b564bf0e30aaf1367b3a2465212"
+   last-author="antoine"
+   name="README.md"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="8d7eef305a08a30ca7ec5aa0c01d5d7b"
+   last-author="antoine"
+   name="bower.json"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="dir"
+   name="docs"/>
+<entry
+   kind="dir"
+   name="example"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="dbc2b7d7bb657b44d11c5e58c9ff0dc5"
+   last-author="antoine"
+   name="package.json"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="7d54db0d77b5d1eee9ac0dedac96e4cc"
+   last-author="antoine"
+   name="plugin.xml"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="a30be37abdd337889105c905ee6f4151"
+   last-author="antoine"
+   name="push.gradle"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="dir"
+   name="spec"/>
+<entry
+   kind="dir"
+   name="src"/>
+<entry
+   kind="dir"
+   name="www"/>
+</wc-entries>

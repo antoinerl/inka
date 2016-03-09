@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/www/css"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="1"
+   last-author="antoine"
+   name=""
+   revision="1"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="4e52f09540b1b4be35645f3bf215f98e"
+   last-author="antoine"
+   name="index.css"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="1e574d195320339d03bdad991979a574"
+   last-author="antoine"
+   name="materialize.min.css"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+</wc-entries>

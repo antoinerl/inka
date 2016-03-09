@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios/Google/Headers/GGLCore/Public"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="2ce5265ece05fd3975590e3a240eb086"
+   last-author="antoine"
+   name="Core.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="9d5d6da41dde3d9a78f45bd8fe0a4df8"
+   last-author="antoine"
+   name="GGLConfiguration.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="2661d2d94b7214b6bdf157202bde962f"
+   last-author="antoine"
+   name="GGLContext.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="22a9aff959b0f02315af7c1ee8d53fb4"
+   last-author="antoine"
+   name="GGLErrorCode.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+</wc-entries>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios/GoogleCloudMessaging/Headers/Public"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="5aeb5f0605df62f44cc631d95993ed9a"
+   last-author="antoine"
+   name="GCMConfig.h"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="305521eed0b96ec151e92c9088fb28e8"
+   last-author="antoine"
+   name="GCMPubSub.h"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="d816f78ddef008daff97dcdb4944a821"
+   last-author="antoine"
+   name="GCMReceiverDelegate.h"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="a52a71eecbffbda2e6c1ea3455566186"
+   last-author="antoine"
+   name="GCMService.h"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3c4f61b423d006d5c7282dd8f6aa8e2a"
+   last-author="antoine"
+   name="GoogleCloudMessaging.h"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+</wc-entries>

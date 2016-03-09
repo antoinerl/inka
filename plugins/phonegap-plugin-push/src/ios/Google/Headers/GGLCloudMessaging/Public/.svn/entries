@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios/Google/Headers/GGLCloudMessaging/Public"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="df937a2c0c0b203306cfacdac633ba80"
+   last-author="antoine"
+   name="CloudMessaging.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="54da95d6e79c1509441ab9b0a500e912"
+   last-author="antoine"
+   name="GGLContext+CloudMessaging.h"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+</wc-entries>

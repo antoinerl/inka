@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios/Google/Headers"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="dir"
+   name="GGLCloudMessaging"/>
+<entry
+   kind="dir"
+   name="GGLCore"/>
+<entry
+   kind="dir"
+   name="ModuleHeaders"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="e2b394a75733abe793ac2d0319afcce4"
+   last-author="antoine"
+   name="module.modulemap"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+</wc-entries>

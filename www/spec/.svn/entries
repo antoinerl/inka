@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/www/spec"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="1"
+   last-author="antoine"
+   name=""
+   revision="1"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="08e628ba9d1e20d0e7c1b74f3b481c0f"
+   last-author="antoine"
+   name="helper.js"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="49dab4c4e2749a75bddcdb409d2267b0"
+   last-author="antoine"
+   name="index.js"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="dir"
+   name="lib"/>
+</wc-entries>

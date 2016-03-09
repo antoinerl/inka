@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/example/www"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="da7dbe0bb9543f8cd5c8ebc613463f08"
+   last-author="antoine"
+   name="beep.wav"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="dir"
+   name="css"/>
+<entry
+   kind="dir"
+   name="font"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3d6399119a64b3083fed46e62799abb4"
+   last-author="antoine"
+   name="index.html"
+   text-time="2016-03-08T08:47:21.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="dir"
+   name="js"/>
+</wc-entries>

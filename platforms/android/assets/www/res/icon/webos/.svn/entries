@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/www/res/icon/webos"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="1"
+   last-author="antoine"
+   name=""
+   revision="1"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="26c99a9c0f17c4e62d93dea81351a9cc"
+   last-author="antoine"
+   name="icon-64.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+</wc-entries>

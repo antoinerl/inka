@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/www/res/icon/bada-wac"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="1"
+   last-author="antoine"
+   name=""
+   revision="1"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="4b12281684f9ae6b71c0e40393d3936f"
+   last-author="antoine"
+   name="icon-48-type5.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="67add49828ea9db1e48785ba62da60a0"
+   last-author="antoine"
+   name="icon-50-type3.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="c66008f39a954375f0c576b8809497dc"
+   last-author="antoine"
+   name="icon-80-type4.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+</wc-entries>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/plugins/phonegap-plugin-push/src/ios/GoogleUtilities/Libraries"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="2"
+   last-author="antoine"
+   name=""
+   revision="2"
+   committed-date="2016-03-08T09:04:44.665000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="c524ecadc0e732b21b5a4d09e28d6467"
+   last-author="antoine"
+   name="libGTMStackTrace.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="e581a926ebbbf919cb00a9a97d4687e5"
+   last-author="antoine"
+   name="libGTM_AddressBook.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="789a4934735821d170a6b56acb4c559f"
+   last-author="antoine"
+   name="libGTM_DebugUtils.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="04769b8145a0ac47d79c1203d83b2258"
+   last-author="antoine"
+   name="libGTM_GTMURLBuilder.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="1bb779b0a9659b67fcce42d8d5db8766"
+   last-author="antoine"
+   name="libGTM_KVO.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3e702db8bd8ded8f39c9e95c8920aff1"
+   last-author="antoine"
+   name="libGTM_NSData+zlib.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="151109c859f66ed62d35f84acd577ec7"
+   last-author="antoine"
+   name="libGTM_NSDictionary+URLArguments.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="2dec4631943df07a294b6381f3a46506"
+   last-author="antoine"
+   name="libGTM_NSScannerJSON.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="f0e27b05f5754fa464b6ecc0339de41d"
+   last-author="antoine"
+   name="libGTM_NSStringHTML.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="7be378f96b97596a81399a9ad761e7f4"
+   last-author="antoine"
+   name="libGTM_NSStringXML.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="22803f315a99c1be4814dbb0e6b04b7f"
+   last-author="antoine"
+   name="libGTM_Regex.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="86410ebab759c11292394eabef693f27"
+   last-author="antoine"
+   name="libGTM_RoundedRectPath.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="f61c5329c580a65075ad5619f186fca7"
+   last-author="antoine"
+   name="libGTM_StringEncoding.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="605287f36e48a7f35e03586e798f5b25"
+   last-author="antoine"
+   name="libGTM_SystemVersion.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3f90b6e079b421d1300119f092478b31"
+   last-author="antoine"
+   name="libGTM_UIFont+LineHeight.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="cb56c1de4cfac94a54a875c705a53072"
+   last-author="antoine"
+   name="libGTM_core.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="fdcd13b48755d2a91b5280179674c061"
+   last-author="antoine"
+   name="libGTM_iPhone.a"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T09:04:44.665000Z"
+   prop-time="2016-03-08T09:04:21.000000Z"/>
+</wc-entries>

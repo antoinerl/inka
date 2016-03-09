@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/www/res/icon/android"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="1"
+   last-author="antoine"
+   name=""
+   revision="1"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="b64329372452db5fd0366f4d47866084"
+   last-author="antoine"
+   name="icon-36-ldpi.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="ccecc45a05517586dc209c76705dba4f"
+   last-author="antoine"
+   name="icon-48-mdpi.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="80cad6651279b90ce6ce7f01017b5e4f"
+   last-author="antoine"
+   name="icon-72-hdpi.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+<entry
+   kind="file"
+   committed-rev="1"
+   checksum="0b920279039a776066008a9dceca9965"
+   last-author="antoine"
+   name="icon-96-xhdpi.png"
+   text-time="2016-03-08T08:47:22.000000Z"
+   committed-date="2016-03-08T08:58:44.364000Z"
+   prop-time="2016-03-08T08:59:01.000000Z"/>
+</wc-entries>

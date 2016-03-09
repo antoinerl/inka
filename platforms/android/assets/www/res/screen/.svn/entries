@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://lespierresparlent.com/svn/inkaCordova/www/res/screen"
+   repos="http://lespierresparlent.com/svn/inkaCordova"
+   kind="dir"
+   committed-rev="1"
+   last-author="antoine"
+   name=""
+   revision="1"
+   committed-date="2016-03-08T08:58:44.364000Z"/>
+<entry
+   kind="dir"
+   name="android"/>
+<entry
+   kind="dir"
+   name="bada"/>
+<entry
+   kind="dir"
+   name="bada-wac"/>
+<entry
+   kind="dir"
+   name="blackberry"/>
+<entry
+   kind="dir"
+   name="ios"/>
+<entry
+   kind="dir"
+   name="tizen"/>
+<entry
+   kind="dir"
+   name="webos"/>
+<entry
+   kind="dir"
+   name="windows-phone"/>
+</wc-entries>
